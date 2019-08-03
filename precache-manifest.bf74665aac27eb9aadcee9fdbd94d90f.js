@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f4642cb15eac793585bc0a451b9c1d3",
+    "revision": "0f6114e9a9b3f5e729b1c790fb714c88",
     "url": "/internet-shop/index.html"
   },
   {
-    "revision": "7b82d376b1964f190945",
+    "revision": "95282c91ecd03f6b860f",
     "url": "/internet-shop/static/css/main.fcd613ad.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/internet-shop/static/js/2.80dac09a.chunk.js"
   },
   {
-    "revision": "7b82d376b1964f190945",
-    "url": "/internet-shop/static/js/main.c488a383.chunk.js"
+    "revision": "95282c91ecd03f6b860f",
+    "url": "/internet-shop/static/js/main.ed340a54.chunk.js"
   },
   {
     "revision": "27609a7b8a5f1a3784dd",
@@ -33,7 +33,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "3555332960a8b0c461684bc242011e74",
-    "url": "/internet-shop/static/media/_35 (1).35553329.JPG"
+    "url": "/internet-shop/static/media/_35(1).35553329.JPG"
   },
   {
     "revision": "573e634c9d8af6cc97801852e6f20019",
