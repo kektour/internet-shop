@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/internet-shop/static/css/main.fcd613ad.chunk.css",
+    "main.js": "/internet-shop/static/js/main.fa43bf90.chunk.js",
+    "main.js.map": "/internet-shop/static/js/main.fa43bf90.chunk.js.map",
+    "runtime~main.js": "/internet-shop/static/js/runtime~main.b2ae3f2c.js",
+    "runtime~main.js.map": "/internet-shop/static/js/runtime~main.b2ae3f2c.js.map",
+    "static/js/2.86efee5f.chunk.js": "/internet-shop/static/js/2.86efee5f.chunk.js",
+    "static/js/2.86efee5f.chunk.js.map": "/internet-shop/static/js/2.86efee5f.chunk.js.map",
+    "index.html": "/internet-shop/index.html",
+    "precache-manifest.341712f1e168b19135e6a8bc1d72f04e.js": "/internet-shop/precache-manifest.341712f1e168b19135e6a8bc1d72f04e.js",
+    "service-worker.js": "/internet-shop/service-worker.js",
+    "static/css/main.fcd613ad.chunk.css.map": "/internet-shop/static/css/main.fcd613ad.chunk.css.map"
+  }
+}
