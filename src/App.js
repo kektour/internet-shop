@@ -4,7 +4,7 @@ import { composeWithDevTools } from 'redux-devtools-extension';
 import reduxThunk from 'redux-thunk';
 import { Provider } from 'react-redux';
 import rootReducer from './reducers';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import Layout from './containers/Layout';
 import Phone from './containers/Phone';
 import Phones from './containers/Phones';
