@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/internet-shop/static/css/main.fcd613ad.chunk.css",
-    "main.js": "/internet-shop/static/js/main.fa43bf90.chunk.js",
-    "main.js.map": "/internet-shop/static/js/main.fa43bf90.chunk.js.map",
+    "main.js": "/internet-shop/static/js/main.c488a383.chunk.js",
+    "main.js.map": "/internet-shop/static/js/main.c488a383.chunk.js.map",
     "runtime~main.js": "/internet-shop/static/js/runtime~main.b2ae3f2c.js",
     "runtime~main.js.map": "/internet-shop/static/js/runtime~main.b2ae3f2c.js.map",
-    "static/js/2.86efee5f.chunk.js": "/internet-shop/static/js/2.86efee5f.chunk.js",
-    "static/js/2.86efee5f.chunk.js.map": "/internet-shop/static/js/2.86efee5f.chunk.js.map",
+    "static/js/2.80dac09a.chunk.js": "/internet-shop/static/js/2.80dac09a.chunk.js",
+    "static/js/2.80dac09a.chunk.js.map": "/internet-shop/static/js/2.80dac09a.chunk.js.map",
     "index.html": "/internet-shop/index.html",
-    "precache-manifest.341712f1e168b19135e6a8bc1d72f04e.js": "/internet-shop/precache-manifest.341712f1e168b19135e6a8bc1d72f04e.js",
+    "precache-manifest.1389b5e490a03fe7f16d4ee1f2d5cbea.js": "/internet-shop/precache-manifest.1389b5e490a03fe7f16d4ee1f2d5cbea.js",
     "service-worker.js": "/internet-shop/service-worker.js",
-    "static/css/main.fcd613ad.chunk.css.map": "/internet-shop/static/css/main.fcd613ad.chunk.css.map"
+    "static/css/main.fcd613ad.chunk.css.map": "/internet-shop/static/css/main.fcd613ad.chunk.css.map",
+    "static/media/51u6y9Rm8QL._SY300_.jpg": "/internet-shop/static/media/51u6y9Rm8QL._SY300_.186d4947.jpg",
+    "static/media/Agnes_Case_for_Samsung_Galaxy_S6_(1)__92643_thumb.jpg": "/internet-shop/static/media/Agnes_Case_for_Samsung_Galaxy_S6_(1)__92643_thumb.c690d685.jpg",
+    "static/media/Lumia1520-Front-Back-png.png": "/internet-shop/static/media/Lumia1520-Front-Back-png.29d52d2d.png",
+    "static/media/_35 (1).JPG": "/internet-shop/static/media/_35 (1).35553329.JPG",
+    "static/media/htc-one-m7-802w-dual-sim-silver.jpg": "/internet-shop/static/media/htc-one-m7-802w-dual-sim-silver.573e634c.jpg",
+    "static/media/iphone5c-selection-hero-2013.png": "/internet-shop/static/media/iphone5c-selection-hero-2013.0834bfdc.png"
   }
 }
