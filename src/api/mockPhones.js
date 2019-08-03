@@ -1,3 +1,10 @@
+import img1 from './img/iphone5c-selection-hero-2013.png';
+import img2 from './img/51u6y9Rm8QL._SY300_.jpg';
+import img3 from './img/_35 (1).JPG';
+import img4 from './img/Lumia1520-Front-Back-png.png';
+import img5 from './img/htc-one-m7-802w-dual-sim-silver.jpg';
+import img6 from './img/Agnes_Case_for_Samsung_Galaxy_S6_(1)__92643_thumb.jpg';
+
 export default [
   {
     id: '1',
@@ -6,7 +13,7 @@ export default [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta',
     price: 823,
-    image: '/uploads/iphone5c-selection-hero-2013.png',
+    image: img1,
     cpu: '1.3GHz Apple A6',
     camera: '8mp (3264x2448)',
     size: '124.4mm x 59.2mm x 8.97mm (4.9 x 2.33 x 0.35)',
@@ -22,7 +29,7 @@ export default [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta',
     price: 953,
-    image: '/uploads/51u6y9Rm8QL._SY300_.jpg',
+    image: img2,
     cpu: '1.3GHz Apple A6',
     camera: '8mp (3264x2448)',
     size: '124.4mm x 59.2mm x 8.97mm (4.9 x 2.33 x 0.35)',
@@ -38,7 +45,7 @@ export default [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta',
     price: 764,
-    image: '/uploads/_35%20(1).JPG',
+    image: img3,
     cpu: '1.3GHz Apple A6',
     camera: '8mp (3264x2448)',
     size: '124.4mm x 59.2mm x 8.97mm (4.9 x 2.33 x 0.35)',
@@ -54,7 +61,7 @@ export default [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta',
     price: 674,
-    image: '/uploads/Lumia1520-Front-Back-png.png',
+    image: img4,
     cpu: '1.3GHz Apple A6',
     camera: '8mp (3264x2448)',
     size: '124.4mm x 59.2mm x 8.97mm (4.9 x 2.33 x 0.35)',
@@ -70,7 +77,7 @@ export default [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta',
     price: 674,
-    image: '/uploads/htc-one-m7-802w-dual-sim-silver.jpg',
+    image: img5,
     cpu: '1.3GHz Apple A6',
     camera: '8mp (3264x2448)',
     size: '124.4mm x 59.2mm x 8.97mm (4.9 x 2.33 x 0.35)',
@@ -86,7 +93,7 @@ export default [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ultricies lorem odio, at laoreet tellus sodales in. Nullam maximus eros ut tortor ultricies rutrum. Aliquam euismod lacus non est egesta',
     price: 674,
-    image: '/uploads/Agnes_Case_for_Samsung_Galaxy_S6_(1)__92643_thumb.jpg',
+    image: img6,
     cpu: '1.3GHz Apple A6',
     camera: '8mp (3264x2448)',
     size: '124.4mm x 59.2mm x 8.97mm (4.9 x 2.33 x 0.35)',
