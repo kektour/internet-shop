@@ -1,6 +1,6 @@
 import img1 from './img/iphone5c-selection-hero-2013.png';
 import img2 from './img/51u6y9Rm8QL._SY300_.jpg';
-import img3 from './img/_35 (1).JPG';
+import img3 from './img/_35(1).JPG';
 import img4 from './img/Lumia1520-Front-Back-png.png';
 import img5 from './img/htc-one-m7-802w-dual-sim-silver.jpg';
 import img6 from './img/Agnes_Case_for_Samsung_Galaxy_S6_(1)__92643_thumb.jpg';
